@@ -11,10 +11,8 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
 ```
-Da un ejemplo
+C++ 17
 ```
 
 ### Instalación 🔧
@@ -90,15 +88,11 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Licencia 📄
 
-Este proyecto está bajo latp://www.datagenetics.com/blog/december32011/ Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+UTEC
 
-## Expresiones de Gratitud 🎁
+## Comentarios, observacioes y gratitudes🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
+La realización del proyecto tuvo varios incovenientes
 
 
 ---
